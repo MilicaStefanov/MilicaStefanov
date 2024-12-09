@@ -6,7 +6,7 @@ I am a passionate Junior QA Tester with experience in **manual testing** for web
 💼 **My Background**  
 - 🎓 Graduated in Biotechnology from Sofia University.  
 - 🔬 Professional experience in food and water testing, medical trials coordination, and QA testing.  
-- 🕹️ Completed an internship as a Manual Game QA Tester, where I tested a web-based game for Android and iOS.
+- 🕹️ I completed an internship as a Manual Game QA Tester, where I was responsible for testing a game created for web, Android, and iOS platforms.
 - 🛠️ Familiar with tools like **Jira**, **phpMyAdmin**, and **Android Studio**, etc.
 
 🚀 **My Skills**  
